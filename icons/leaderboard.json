@@ -13,16 +13,10 @@
       { "team": "blob", "points": 90 }
     ],
     "Autumn": [
-      { "team": "truck", "points": 160 },
-      { "team": "balloon", "points": 130 },
-      { "team": "helicopter", "points": 110 },
-      { "team": "blob", "points": 90 }
-    ],
-    "Winter": [
-      { "team": "truck", "points": 160 },
-      { "team": "balloon", "points": 130 },
-      { "team": "helicopter", "points": 110 },
-      { "team": "blob", "points": 90 }
+      { "team": "helicopter", "points": 0 },
+      { "team": "truck", "points": 0 },
+      { "team": "balloon", "points": 0 },
+      { "team": "blob", "points": 0 }
     ]
   },
   "2023": {
