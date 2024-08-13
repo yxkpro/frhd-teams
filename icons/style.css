@@ -21,10 +21,6 @@
 	text-transform: capitalize;
 }
 
-.frhdTable.rowCounter thead tr::before {
-	content: "";
-}
-
 .frhdTable thead tr th {
 	text-align: left;
 	padding: 0.5em;
@@ -80,14 +76,6 @@
 
 .frhdTable.rowCounter tbody tr {
 	counter-increment: row;
-}
-
-.frhdTable.rowCounter tbody tr::before {
-	content: counter(row) ".";
-	display: block;
-	padding: 0.5em 0;
-	padding-left: 1em;
-	transition: padding 180ms ease-in-out;
 }
 
 .frhdTable tbody tr {
