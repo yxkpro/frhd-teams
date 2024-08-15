@@ -1,0 +1,80 @@
+{
+  "teams": {
+    "Team Heli": {
+      "users": [
+        {
+          "username": "user #1",
+          "pointsHistory": [
+            {
+              "points": 5,
+              "reason": "Won a contest",
+              "date": "2024-08-15"
+            },
+            {
+              "points": 3,
+              "reason": "Completed a challenge",
+              "date": "2024-08-10"
+            }
+          ]
+        }
+      ]
+    },
+    "Team Truck": {
+      "users": [
+        {
+          "username": "user #1",
+          "pointsHistory": [
+            {
+              "points": 5,
+              "reason": "Won a contest",
+              "date": "2024-08-15"
+            },
+            {
+              "points": 3,
+              "reason": "Completed a challenge",
+              "date": "2024-08-10"
+            }
+          ]
+        }
+      ]
+    },
+    "Team Blob": {
+      "users": [
+        {
+          "username": "user #1",
+          "pointsHistory": [
+            {
+              "points": 5,
+              "reason": "Won a contest",
+              "date": "2024-08-15"
+            },
+            {
+              "points": 3,
+              "reason": "Completed a challenge",
+              "date": "2024-08-10"
+            }
+          ]
+        }
+      ]
+    },
+    "Team Balloon": {
+      "users": [
+        {
+          "username": "user #2",
+          "pointsHistory": [
+            {
+              "points": -10,
+              "reason": "Cheated",
+              "date": "2024-08-15"
+            },
+            {
+              "points": 7,
+              "reason": "Won a match",
+              "date": "2024-08-05"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
