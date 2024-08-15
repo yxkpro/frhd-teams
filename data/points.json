@@ -1,15 +1,24 @@
 {
-  "teams": {
-    "Heli": {
-      "users": [
+  "users": [
+        {
+          "username": "user #1",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Heli"
+            }
+          ]
+        },
         {
             "username": "4Life",
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -18,9 +27,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -29,9 +38,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -40,9 +49,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -51,9 +60,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -62,14 +71,15 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               },
               {
                 "points": 100,
                 "reason": "Team Captain",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -78,9 +88,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -89,9 +99,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -100,9 +110,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -111,9 +121,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -122,9 +132,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -133,9 +143,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -144,9 +154,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -155,9 +165,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -166,9 +176,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -177,9 +187,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -188,9 +198,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -199,9 +209,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -210,9 +220,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -221,9 +231,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -232,9 +242,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -243,9 +253,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
@@ -254,24 +264,20 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Heli",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
-        }
-      ]
-    },
-    "Truck": {
-      "users": [
+        },
         {
             "username": "alexander",
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -280,9 +286,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -291,9 +297,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -302,9 +308,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -313,14 +319,15 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               },
               {
                 "points": 100,
                 "reason": "Team Captain",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -329,9 +336,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -340,9 +347,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -351,9 +358,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -362,9 +369,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -373,9 +380,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
@@ -384,24 +391,20 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Truck",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
-        }
-      ]
-    },
-    "Blob": {
-      "users": [
+        },
         {
             "username": "dantexpress",
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -410,9 +413,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -421,9 +424,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -432,9 +435,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -443,9 +446,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -454,14 +457,15 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               },
               {
                 "points": 100,
                 "reason": "Team Captain",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -470,9 +474,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -481,9 +485,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -492,9 +496,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
@@ -503,24 +507,20 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Blob",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
-        }
-      ]
-    },
-    "Balloon": {
-      "users": [
+        },
         {
             "username": "pawflix",
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Balloon",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
@@ -529,9 +529,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Balloon",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
@@ -540,14 +540,15 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Balloon",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               },
               {
                 "points": 100,
                 "reason": "Team Captain",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
@@ -556,9 +557,9 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Balloon",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
@@ -567,13 +568,11 @@
             "pointsHistory": [
               {
                 "points": 0,
-                "forTeam": "Balloon",
                 "reason": "Start.",
-                "date": "2024-08-15"
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         }
-      ]
-    }
-  }
+  ]
 }
