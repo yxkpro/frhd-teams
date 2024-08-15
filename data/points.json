@@ -1,17 +1,6 @@
 {
   "users": [
         {
-          "username": "user #1",
-          "pointsHistory": [
-            {
-              "points": 0,
-              "reason": "Start.",
-              "date": "2024-08-15",
-              "team": "Heli"
-            }
-          ]
-        },
-        {
             "username": "4Life",
             "pointsHistory": [
               {
@@ -173,6 +162,17 @@
         },
         {
             "username": "NotVeryGood",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Heli"
+              }
+            ]
+        },
+        {
+            "username": "OdysseusSupreme",
             "pointsHistory": [
               {
                 "points": 0,
@@ -574,5 +574,5 @@
               }
             ]
         }
-  ]
+    ]
 }
