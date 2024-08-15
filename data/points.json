@@ -271,6 +271,17 @@
             ]
         },
         {
+            "username": "adversitas",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
             "username": "alexander",
             "pointsHistory": [
               {
