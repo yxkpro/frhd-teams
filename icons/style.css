@@ -122,10 +122,6 @@
 	text-decoration: none;
 }
 
-.frhdTable tbody tr td:first-child {
-	padding-right: 2em;
-}
-
 .frhdTable .raceLink {
 	display: block;
 	text-decoration: none;
