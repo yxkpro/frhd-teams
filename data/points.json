@@ -6,118 +6,533 @@
           "username": "user #1",
           "pointsHistory": [
             {
-              "points": 5,
-              "reason": "Won a contest",
+              "points": 0,
+              "reason": "Start.",
               "date": "2024-08-15"
-            },
-            {
-              "points": 20,
-              "reason": "Completed a challenge",
-              "date": "2024-08-10"
             }
           ]
         },
         {
-            "username": "user #2",
+            "username": "4Life",
             "pointsHistory": [
               {
-                "points": 15,
-                "reason": "Won a contest",
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+          },
+        {
+            "username": "andhumphrey",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "AutoBoi",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Blacklisted",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Calculus",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Cerasium",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
                 "date": "2024-08-15"
               },
               {
-                "points": 15,
-                "reason": "Completed a challenge",
-                "date": "2024-08-10"
+                "points": 100,
+                "reason": "Team Captain",
+                "date": "2024-08-15"
               }
             ]
-          }
+        },
+        {
+            "username": "CK9C",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "cmLd",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Elibloodthirst",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "erikeriksson2001",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "FIREBEATS",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "IAmMutskie",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "KameraMan",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "LeviAustin",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "NotVeryGood",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Protvod",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "reaperch",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Saddlebag",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Sidewalk",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Sltg28",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "TPlacella",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Tubiek",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Xenom",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        }
       ]
     },
     "Truck": {
       "users": [
         {
-          "username": "Coated_Badger",
-          "pointsHistory": [
-            {
-              "points": 5,
-              "reason": "Won a contest",
-              "date": "2024-08-15"
-            },
-            {
-              "points": 3,
-              "reason": "Completed a challenge",
-              "date": "2024-08-10"
-            }
-          ]
+            "username": "alexander",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
         },
         {
-            "username": "user #4",
+            "username": "Canvasrider123",
             "pointsHistory": [
               {
-                "points": 25,
-                "reason": "Won a contest",
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Coated_Badger",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Egona",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Eryp",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
                 "date": "2024-08-15"
               },
               {
-                "points": 35,
-                "reason": "Completed a challenge",
-                "date": "2024-08-10"
+                "points": 100,
+                "reason": "Team Captain",
+                "date": "2024-08-15"
               }
             ]
-          },
-          {
-            "username": "user #5",
+        },
+        {
+            "username": "loge_0",
             "pointsHistory": [
               {
-                "points": 40,
-                "reason": "Won a contest",
+                "points": 0,
+                "reason": "Start.",
                 "date": "2024-08-15"
-              },
-              {
-                "points": 70,
-                "reason": "Completed a challenge",
-                "date": "2024-08-10"
               }
             ]
-          }
+        },
+        {
+            "username": "MDTajwar",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "MuchoPanda",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "rationalities",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "YourKidding",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Zycerak",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        }
       ]
     },
     "Blob": {
       "users": [
         {
-          "username": "user #6",
-          "pointsHistory": [
-            {
-              "points": 5,
-              "reason": "Won a contest",
-              "date": "2024-08-15"
-            },
-            {
-              "points": 30,
-              "reason": "Completed a challenge",
-              "date": "2024-08-10"
-            }
-          ]
+            "username": "dantexpress",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "FieryBowser",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Flying_T_Rex",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Foxler2010",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "moinotchubb",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Pie42",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              },
+              {
+                "points": 100,
+                "reason": "Team Captain",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "SirHuman01",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "THEend",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "VictorEnummanuel",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "zachypacso",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
         }
       ]
     },
     "Balloon": {
       "users": [
         {
-          "username": "user #7",
-          "pointsHistory": [
-            {
-              "points": -10,
-              "reason": "Cheated",
-              "date": "2024-08-15"
-            },
-            {
-              "points": 20,
-              "reason": "Won a match",
-              "date": "2024-08-05"
-            }
-          ]
+            "username": "pawflix",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "philosophia",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Rayb25",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              },
+              {
+                "points": 100,
+                "reason": "Team Captain",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Spare1",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
+        },
+        {
+            "username": "Uniior",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15"
+              }
+            ]
         }
       ]
     }
