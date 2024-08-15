@@ -4,10 +4,16 @@
             "username": "4Life",
             "pointsHistory": [
               {
-                "points": 0,
+                "points": 10,
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
+              },
+              {
+                "points": 20,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
               }
             ]
         },
