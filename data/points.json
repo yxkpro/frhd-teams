@@ -315,6 +315,17 @@
             ]
         },
         {
+            "username": "Clash06",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
             "username": "Coated_Badger",
             "pointsHistory": [
               {
@@ -399,6 +410,17 @@
         },
         {
             "username": "Totoca12",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
+            "username": "waddleshoes",
             "pointsHistory": [
               {
                 "points": 0,
@@ -554,6 +576,17 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Blob"
+              }
+            ]
+        },
+        {
+            "username": "mR..A",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
