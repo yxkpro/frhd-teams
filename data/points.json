@@ -1,9 +1,43 @@
 {
   "teams": {
-    "Team Heli": {
+    "Heli": {
       "users": [
         {
           "username": "user #1",
+          "pointsHistory": [
+            {
+              "points": 5,
+              "reason": "Won a contest",
+              "date": "2024-08-15"
+            },
+            {
+              "points": 20,
+              "reason": "Completed a challenge",
+              "date": "2024-08-10"
+            }
+          ]
+        },
+        {
+            "username": "user #2",
+            "pointsHistory": [
+              {
+                "points": 15,
+                "reason": "Won a contest",
+                "date": "2024-08-15"
+              },
+              {
+                "points": 15,
+                "reason": "Completed a challenge",
+                "date": "2024-08-10"
+              }
+            ]
+          }
+      ]
+    },
+    "Truck": {
+      "users": [
+        {
+          "username": "user #3",
           "pointsHistory": [
             {
               "points": 5,
@@ -16,13 +50,43 @@
               "date": "2024-08-10"
             }
           ]
-        }
+        },
+        {
+            "username": "user #4",
+            "pointsHistory": [
+              {
+                "points": 25,
+                "reason": "Won a contest",
+                "date": "2024-08-15"
+              },
+              {
+                "points": 35,
+                "reason": "Completed a challenge",
+                "date": "2024-08-10"
+              }
+            ]
+          },
+          {
+            "username": "user #5",
+            "pointsHistory": [
+              {
+                "points": 40,
+                "reason": "Won a contest",
+                "date": "2024-08-15"
+              },
+              {
+                "points": 70,
+                "reason": "Completed a challenge",
+                "date": "2024-08-10"
+              }
+            ]
+          }
       ]
     },
-    "Team Truck": {
+    "Blob": {
       "users": [
         {
-          "username": "user #1",
+          "username": "user #6",
           "pointsHistory": [
             {
               "points": 5,
@@ -30,7 +94,7 @@
               "date": "2024-08-15"
             },
             {
-              "points": 3,
+              "points": 30,
               "reason": "Completed a challenge",
               "date": "2024-08-10"
             }
@@ -38,29 +102,10 @@
         }
       ]
     },
-    "Team Blob": {
+    "Balloon": {
       "users": [
         {
-          "username": "user #1",
-          "pointsHistory": [
-            {
-              "points": 5,
-              "reason": "Won a contest",
-              "date": "2024-08-15"
-            },
-            {
-              "points": 3,
-              "reason": "Completed a challenge",
-              "date": "2024-08-10"
-            }
-          ]
-        }
-      ]
-    },
-    "Team Balloon": {
-      "users": [
-        {
-          "username": "user #2",
+          "username": "user #7",
           "pointsHistory": [
             {
               "points": -10,
@@ -68,7 +113,7 @@
               "date": "2024-08-15"
             },
             {
-              "points": 7,
+              "points": 20,
               "reason": "Won a match",
               "date": "2024-08-05"
             }
