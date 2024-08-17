@@ -613,6 +613,17 @@
             ]
         },
         {
+            "username": "weem",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Blob"
+              }
+            ]
+        },
+        {
             "username": "zachypacso",
             "pointsHistory": [
               {
