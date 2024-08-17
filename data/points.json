@@ -387,6 +387,17 @@
             ]
         },
         {
+            "username": "Eunos",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
             "username": "loge_0",
             "pointsHistory": [
               {
@@ -471,6 +482,17 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Truck"
+              }
+            ]
+        },
+        {
+            "username": "Bellboys",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Blob"
               }
             ]
         },
