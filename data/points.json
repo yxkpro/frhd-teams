@@ -415,6 +415,18 @@
             ]
         },
         {
+          "username": "Egway",
+          "url": "members/egway.23852/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Truck"
+            }
+          ]
+      },
+        {
             "username": "Eryp",
             "url": "members/eryp.10986/",
             "pointsHistory": [
@@ -762,6 +774,19 @@
               }
             ]
         },
+        
+        {
+          "username": "nasrani",
+          "url": "members/nasrani.41/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Blob"
+            }
+          ]
+      },
         {
             "username": "Pie42",
             "url": "members/pie42.15046/",
