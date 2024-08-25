@@ -902,6 +902,18 @@
             ]
         },
         {
+            "username": "RedOrBlue",
+            "url": "members/redorblue.4438/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Blob"
+              }
+            ]
+        },
+        {
             "username": "SirHuman01",
             "url": "members/sirhuman01.26140/",
             "pointsHistory": [
