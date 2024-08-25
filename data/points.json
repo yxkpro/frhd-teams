@@ -727,6 +727,18 @@
             ]
         },
         {
+            "username": "Baltic",
+            "url": "members/baltic.28466/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Blob"
+              }
+            ]
+        },
+        {
             "username": "Bellboys",
             "url": "members/bellboys.27503/",
             "pointsHistory": [
