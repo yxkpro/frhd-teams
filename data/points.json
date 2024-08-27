@@ -199,24 +199,6 @@
             ]
         },
         {
-            "username": "OdysseusSupreme",
-            "url": "members/odysseussupreme.17902/",
-            "pointsHistory": [
-              {
-                "points": 0,
-                "reason": "Moved teams.",
-                "date": "2024-08-26",
-                "team": "Balloon"
-              },
-              {
-                "points": 0,
-                "reason": "Start.",
-                "date": "2024-08-15",
-                "team": "Heli"
-              }
-            ]
-        },
-        {
             "username": "Protvod",
             "url": "members/protvod.28423/",
             "pointsHistory": [
@@ -675,6 +657,24 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              }
+            ]
+        },
+        {
+            "username": "OdysseusSupreme",
+            "url": "members/odysseussupreme.17902/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Moved teams.",
+                "date": "2024-08-26",
+                "team": "Balloon"
+              },
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Heli"
               }
             ]
         },
