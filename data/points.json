@@ -139,6 +139,18 @@
             ]
         },
         {
+            "username": "H0tsh0t",
+            "url": "members/h0tsh0t.28108/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Heli"
+              }
+            ]
+        },
+        {
             "username": "IAmMutskie",
             "url": "members/iammutskie.26153/",
             "pointsHistory": [
@@ -225,6 +237,18 @@
         {
             "username": "reaperch",
             "url": "members/reaperch.21446/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Heli"
+              }
+            ]
+        },
+        {
+            "username": "R1ley070",
+            "url": "members/r1ley070.17403/",
             "pointsHistory": [
               {
                 "points": 0,
@@ -391,6 +415,18 @@
             ]
         },
         {
+            "username": "CHuguley",
+            "url": "members/chuguley.16825/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
             "username": "Clash06",
             "url": "members/clash06.28900/",
             "pointsHistory": [
@@ -437,7 +473,7 @@
               "team": "Truck"
             }
           ]
-      },
+        },
         {
             "username": "Eryp",
             "url": "members/eryp.10986/",
@@ -459,6 +495,18 @@
         {
             "username": "Eunos",
             "url": "members/eunos.13109/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-08-15",
+                "team": "Truck"
+              }
+            ]
+        },
+        {
+            "username": "gamerboi1898",
+            "url": "members/gamerboi1898.29203/",
             "pointsHistory": [
               {
                 "points": 0,
@@ -888,7 +936,6 @@
               }
             ]
         },
-        
         {
           "username": "nasrani",
           "url": "members/nasrani.41/",
@@ -900,7 +947,7 @@
               "team": "Blob"
             }
           ]
-      },
+        },
         {
             "username": "Pie42",
             "url": "members/pie42.15046/",
