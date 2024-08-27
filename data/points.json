@@ -204,6 +204,12 @@
             "pointsHistory": [
               {
                 "points": 0,
+                "reason": "Moved teams.",
+                "date": "2024-08-26",
+                "team": "Balloon"
+              },
+              {
+                "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
