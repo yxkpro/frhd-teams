@@ -619,6 +619,18 @@
             ]
         },
         {
+          "username": "Tremulant",
+          "url": "members/tremulant.233/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-09-07",
+              "team": "Truck"
+            }
+          ]
+        },
+        {
             "username": "waddleshoes",
             "url": "members/waddleshoes.25956/",
             "pointsHistory": [
@@ -1031,6 +1043,18 @@
                 "team": "Blob"
               }
             ]
+        },
+        {
+          "username": "S-P-X-W-N-S",
+          "url": "members/s-p-x-w-n-s.28103/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-09-07",
+              "team": "Blob"
+            }
+          ]
         },
         {
             "username": "SirHuman01",
