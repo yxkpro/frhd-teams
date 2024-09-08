@@ -81,6 +81,12 @@
                 "reason": "first place on 'pick your team'",
                 "date": "2024-08-31",
                 "team": "Heli"
+              },
+              {
+                "points": 180,
+                "reason": "nine ghosts stolen",
+                "date": "2024-09-07",
+                "team": "Heli"
               }
             ]
         },
@@ -507,6 +513,12 @@
                 "reason": "Team Captain",
                 "date": "2024-08-15",
                 "team": "Truck"
+              },
+              {
+                "points": -50,
+                "reason": "Gravity",
+                "date": "2024-09-07",
+                "team": "Truck"
               }
             ]
         },
@@ -819,6 +831,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              },
+              {
+                "points": 20,
+                "reason": "stolen ghost",
+                "date": "2024-08-15",
+                "team": "Balloon"
               }
             ]
         },
@@ -980,6 +998,12 @@
                 "points": 100,
                 "reason": "Team Captain",
                 "date": "2024-08-15",
+                "team": "Blob"
+              },
+              {
+                "points": -50,
+                "reason": "Gravity",
+                "date": "2024-09-07",
                 "team": "Blob"
               }
             ]
