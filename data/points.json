@@ -87,6 +87,24 @@
                 "reason": "nine ghosts stolen",
                 "date": "2024-09-07",
                 "team": "Heli"
+              },
+              {
+                "points": 420,
+                "reason": "21 ghosts stolen",
+                "date": "2024-09-14",
+                "team": "Heli"
+              },
+              {
+                "points": 100,
+                "reason": "10 ghost jam wins",
+                "date": "2024-09-14",
+                "team": "Heli"
+              },
+              {
+                "points": 20,
+                "reason": "LIMBO collab split",
+                "date": "2024-09-14",
+                "team": "Heli"
               }
             ]
         },
@@ -110,6 +128,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Heli"
+              },
+              {
+                "points": 30,
+                "reason": "2nd place mint track jam",
+                "date": "2024-09-14",
                 "team": "Heli"
               }
             ]
@@ -170,6 +194,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Heli"
+              },
+              {
+                "points": 20,
+                "reason": "3rd place mint track jam",
+                "date": "2024-09-14",
                 "team": "Heli"
               }
             ]
@@ -375,6 +405,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
+              },
+              {
+                "points": 20,
+                "reason": "ghost stolen",
+                "date": "2024-09-14",
+                "team": "Heli"
               }
             ]
         },
@@ -579,8 +615,26 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Truck"
+              },
+              {
+                "points": 270,
+                "reason": "LIMBO feature with gravity",
+                "date": "2024-09-14",
+                "team": "Truck"
               }
             ]
+        },
+        {
+          "username": "panda_rider",
+          "url": "members/panda_rider.11944/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Truck"
+            }
+          ]
         },
         {
             "username": "PTSD",
@@ -993,6 +1047,12 @@
               "reason": "Start.",
               "date": "2024-08-15",
               "team": "Blob"
+            },
+            {
+              "points": 300,
+              "reason": "SKATEYARD GRAVEPARK feature with gravity",
+              "date": "2024-09-14",
+              "team": "Blob"
             }
           ]
         },
@@ -1100,6 +1160,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Blob"
+              },
+              {
+                "points": 75,
+                "reason": "1st in mint track jam with gravity",
+                "date": "2024-09-14",
                 "team": "Blob"
               }
             ]
