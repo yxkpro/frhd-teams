@@ -22,7 +22,7 @@
 }
 
 .frhdTable thead tr th {
-	text-align: left;
+	text-align: center;
 	padding: 0.5em;
 	user-select: none;
 }
