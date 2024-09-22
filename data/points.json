@@ -105,6 +105,24 @@
                 "reason": "LIMBO collab split",
                 "date": "2024-09-14",
                 "team": "Heli"
+              },
+              {
+                "points": 180,
+                "reason": "9 ghost jam best times",
+                "date": "2024-09-21",
+                "team": "Heli"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-09-21",
+                "team": "Heli"
+              },
+              {
+                "points": -200,
+                "reason": "hit by two bombs",
+                "date": "2024-09-21",
+                "team": "Heli"
               }
             ]
         },
@@ -134,6 +152,12 @@
                 "points": 30,
                 "reason": "2nd place mint track jam",
                 "date": "2024-09-14",
+                "team": "Heli"
+              },
+              {
+                "points": 5,
+                "reason": "5th place jellyfish track jam",
+                "date": "2024-09-21",
                 "team": "Heli"
               }
             ]
@@ -261,6 +285,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
+              },
+              {
+                "points": 5,
+                "reason": "7th place jellyfish track jam",
+                "date": "2024-09-21",
+                "team": "Heli"
               }
             ]
         },
@@ -381,6 +411,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
+              },
+              {
+                "points": 15,
+                "reason": "3 ghost jam better times",
+                "date": "2024-09-21",
+                "team": "Heli"
               }
             ]
         },
@@ -402,6 +438,12 @@
             "pointsHistory": [
               {
                 "points": 0,
+                "reason": "moved to Team Blob",
+                "date": "2024-09-21",
+                "team": "Blob"
+              },
+              {
+                "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
@@ -410,6 +452,12 @@
                 "points": 20,
                 "reason": "ghost stolen",
                 "date": "2024-09-14",
+                "team": "Heli"
+              },
+              {
+                "points": 10,
+                "reason": "2 ghost jam better times",
+                "date": "2024-09-21",
                 "team": "Heli"
               }
             ]
@@ -507,6 +555,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Truck"
+              },
+              {
+                "points": 20,
+                "reason": "4th place jellyfish track jam",
+                "date": "2024-09-21",
+                "team": "Truck"
               }
             ]
         },
@@ -555,6 +609,18 @@
                 "reason": "Gravity",
                 "date": "2024-09-07",
                 "team": "Truck"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-09-21",
+                "team": "Truck"
+              },
+              {
+                "points": -50,
+                "reason": "bomb",
+                "date": "2024-09-21",
+                "team": "Truck"
               }
             ]
         },
@@ -590,6 +656,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Truck"
+              },
+              {
+                "points": 60,
+                "reason": "2nd place jellyfish track jam",
+                "date": "2024-09-21",
                 "team": "Truck"
               }
             ]
@@ -692,6 +764,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Truck"
+              },
+              {
+                "points": 5,
+                "reason": "6th place jellyfish track jam",
+                "date": "2024-09-21",
                 "team": "Truck"
               }
             ]
@@ -801,6 +879,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              },
+              {
+                "points": 100,
+                "reason": "1st place jellyfish track jam",
+                "date": "2024-09-21",
+                "team": "Balloon"
               }
             ]
         },
@@ -861,6 +945,18 @@
                 "reason": "Team Captain",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-09-21",
+                "team": "Balloon"
+              },
+              {
+                "points": -50,
+                "reason": "bomb",
+                "date": "2024-09-21",
+                "team": "Balloon"
               }
             ]
         },
@@ -903,6 +999,12 @@
                 "reason": "stolen ghost",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              },
+              {
+                "points": 45,
+                "reason": "1 ghost jam best time, 5 better times",
+                "date": "2024-09-21",
+                "team": "Balloon"
               }
             ]
         },
@@ -914,6 +1016,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Blob"
+              },
+              {
+                "points": 40,
+                "reason": "3rd place jellyfish track jam",
+                "date": "2024-09-21",
                 "team": "Blob"
               }
             ]
@@ -1148,6 +1256,12 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Blob"
+              },
+              {
+                "points": 5,
+                "reason": "1 ghost jam better time",
+                "date": "2024-09-21",
                 "team": "Blob"
               }
             ]
