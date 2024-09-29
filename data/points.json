@@ -129,6 +129,12 @@
                 "reason": "8 ghost jam best times",
                 "date": "2024-09-28",
                 "team": "Heli"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-09-28",
+                "team": "Heli"
               }
             ]
         },
@@ -925,7 +931,7 @@
               {
                 "points": 300,
                 "reason": "feature for Aruarian Sandlands",
-                "date": "2024-09-29",
+                "date": "2024-09-28",
                 "team": "Balloon"
               }
             ]
