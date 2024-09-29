@@ -123,6 +123,12 @@
                 "reason": "hit by two bombs",
                 "date": "2024-09-21",
                 "team": "Heli"
+              },
+              {
+                "points": 240,
+                "reason": "8 ghost jam best times",
+                "date": "2024-09-28",
+                "team": "Heli"
               }
             ]
         },
@@ -161,6 +167,24 @@
                 "team": "Heli"
               }
             ]
+        },
+        {
+          "username": "DrChill",
+          "url": "members/drchill.17708/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Heli"
+            },
+            {
+              "points": 15,
+              "reason": "2 space ghost jam better times",
+              "date": "2024-09-28",
+              "team": "Heli"
+            }
+          ]
         },
         {
             "username": "Elibloodthirst",
@@ -443,6 +467,12 @@
                 "team": "Blob"
               },
               {
+                "points": 5,
+                "reason": "1 space ghost jam better time",
+                "date": "2024-09-28",
+                "team": "Blob"
+              },
+              {
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
@@ -620,6 +650,12 @@
                 "points": -50,
                 "reason": "bomb",
                 "date": "2024-09-21",
+                "team": "Truck"
+              },
+              {
+                "points": 10,
+                "reason": "1 space ghost jam better time",
+                "date": "2024-09-28",
                 "team": "Truck"
               }
             ]
@@ -811,6 +847,24 @@
             ]
         },
         {
+          "username": "AfterImage",
+          "url": "members/afterimage.24911/",
+          "pointsHistory": [
+            {
+              "points": 0,
+              "reason": "Start.",
+              "date": "2024-08-15",
+              "team": "Balloon"
+            },
+            {
+              "points": 150,
+              "reason": "1st place space track jam",
+              "date": "2024-09-28",
+              "team": "Balloon"
+            }
+          ]
+        },
+        {
             "username": "Blank_Guy",
             "url": "members/blank_guy.17530/",
             "pointsHistory": [
@@ -885,6 +939,12 @@
                 "reason": "1st place jellyfish track jam",
                 "date": "2024-09-21",
                 "team": "Balloon"
+              },
+              {
+                "points": 90,
+                "reason": "2nd place in the space track jam",
+                "date": "2024-09-28",
+                "team": "Balloon"
               }
             ]
         },
@@ -903,6 +963,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Heli"
+              },
+              {
+                "points": 30,
+                "reason": "4th place in the space track jam",
+                "date": "2024-09-28",
+                "team": "Balloon"
               }
             ]
         },
@@ -981,6 +1047,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Balloon"
+              },
+              {
+                "points": 60,
+                "reason": "3rd place in the space track jam",
+                "date": "2024-09-28",
+                "team": "Balloon"
               }
             ]
         },
@@ -1004,6 +1076,12 @@
                 "points": 45,
                 "reason": "1 ghost jam best time, 5 better times",
                 "date": "2024-09-21",
+                "team": "Balloon"
+              },
+              {
+                "points": 30,
+                "reason": "4 better times in space ghost jam",
+                "date": "2024-09-28",
                 "team": "Balloon"
               }
             ]
