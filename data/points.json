@@ -135,6 +135,18 @@
                 "reason": "gravity",
                 "date": "2024-09-28",
                 "team": "Heli"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-10-05",
+                "team": "Heli"
+              },
+              {
+                "points": 270,
+                "reason": "8 ghost jam best times",
+                "date": "2024-10-05",
+                "team": "Heli"
               }
             ]
         },
@@ -171,6 +183,12 @@
                 "reason": "5th place jellyfish track jam",
                 "date": "2024-09-21",
                 "team": "Heli"
+              },
+              {
+                "points": 30,
+                "reason": "4th place coager track jam",
+                "date": "2024-10-05",
+                "team": "Heli"
               }
             ]
         },
@@ -188,6 +206,12 @@
               "points": 15,
               "reason": "2 space ghost jam better times",
               "date": "2024-09-28",
+              "team": "Heli"
+            },
+            {
+              "points": 10,
+              "reason": "1 coager ghost jam better times",
+              "date": "2024-10-05",
               "team": "Heli"
             }
           ]
@@ -224,6 +248,24 @@
                 "points": 0,
                 "reason": "Start.",
                 "date": "2024-08-15",
+                "team": "Heli"
+              }
+            ]
+        },
+        {
+            "username": "GreenJetPackNo.1",
+            "url": "members/greenjetpackno-1.28776/",
+            "pointsHistory": [
+              {
+                "points": 0,
+                "reason": "Start.",
+                "date": "2024-10-05",
+                "team": "Heli"
+              },
+              {
+                "points": 10,
+                "reason": "5th place coager track jam",
+                "date": "2024-10-05",
                 "team": "Heli"
               }
             ]
@@ -609,6 +651,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Truck"
+              },
+              {
+                "points": 5,
+                "reason": "9th place coager track jam",
+                "date": "2024-10-05",
+                "team": "Truck"
               }
             ]
         },
@@ -704,6 +752,18 @@
                 "points": 60,
                 "reason": "2nd place jellyfish track jam",
                 "date": "2024-09-21",
+                "team": "Truck"
+              },
+              {
+                "points": 40,
+                "reason": "3rd place coager track jam",
+                "date": "2024-10-05",
+                "team": "Truck"
+              },
+              {
+                "points": 5,
+                "reason": "1 better time coager ghost jam",
+                "date": "2024-10-05",
                 "team": "Truck"
               }
             ]
@@ -981,6 +1041,12 @@
                 "reason": "4th place in the space track jam",
                 "date": "2024-09-28",
                 "team": "Balloon"
+              },
+              {
+                "points": 5,
+                "reason": "6th place in the coager track jam",
+                "date": "2024-10-05",
+                "team": "Balloon"
               }
             ]
         },
@@ -1095,6 +1161,12 @@
                 "reason": "4 better times in space ghost jam",
                 "date": "2024-09-28",
                 "team": "Balloon"
+              },
+              {
+                "points": 20,
+                "reason": "4 better times in coager ghost jam",
+                "date": "2024-10-05",
+                "team": "Balloon"
               }
             ]
         },
@@ -1112,6 +1184,12 @@
                 "points": 40,
                 "reason": "3rd place jellyfish track jam",
                 "date": "2024-09-21",
+                "team": "Blob"
+              },
+              {
+                "points": 5,
+                "reason": "8th place coager track jam",
+                "date": "2024-10-05",
                 "team": "Blob"
               }
             ]
@@ -1251,6 +1329,12 @@
               "reason": "SKATEYARD GRAVEPARK feature with gravity",
               "date": "2024-09-14",
               "team": "Blob"
+            },
+            {
+              "points": 60,
+              "reason": "2nd in coager track jam",
+              "date": "2024-10-05",
+              "team": "Blob"
             }
           ]
         },
@@ -1323,6 +1407,12 @@
                 "reason": "Start.",
                 "date": "2024-08-15",
                 "team": "Blob"
+              },
+              {
+                "points": 5,
+                "reason": "7th place coager track jam",
+                "date": "2024-10-05",
+                "team": "Blob"
               }
             ]
         },
@@ -1370,6 +1460,12 @@
                 "points": 75,
                 "reason": "1st in mint track jam with gravity",
                 "date": "2024-09-14",
+                "team": "Blob"
+              },
+              {
+                "points": 100,
+                "reason": "1st in coager track jam",
+                "date": "2024-10-05",
                 "team": "Blob"
               }
             ]
