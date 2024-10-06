@@ -711,6 +711,18 @@
                 "reason": "1 space ghost jam better time",
                 "date": "2024-09-28",
                 "team": "Truck"
+              },
+              {
+                "points": -50,
+                "reason": "slow-mo",
+                "date": "2024-10-05",
+                "team": "Truck"
+              },
+              {
+                "points": -50,
+                "reason": "gravity",
+                "date": "2024-10-05",
+                "team": "Truck"
               }
             ]
         },
